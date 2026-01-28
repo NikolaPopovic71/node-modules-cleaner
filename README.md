@@ -19,7 +19,7 @@ Two simple Python scripts that clean your projects **locally and safely**:
 
 ### Why Local Scripts Instead of a Web Service?
 
-Read the full explanation in our blog post: [Why I Didn't Build a Web App](https://ponitech.pro/blog/clean-node-modules-locally)
+Read the full explanation in our blog post: [Why I Didn't Build a Web App](https://www.ponitech.pro/blog/clean_node_modules_locally)
 
 **TL;DR:** Local scripts give you:
 - ✅ No file size limits

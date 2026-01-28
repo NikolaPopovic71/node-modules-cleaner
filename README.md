@@ -43,14 +43,14 @@ Read the full explanation in our blog post: [Why I Didn't Build a Web App](https
 
 ```bash
 # Download both scripts
-curl -O https://raw.githubusercontent.com/yourusername/node-modules-cleaner/main/clean_node_modules.py
-curl -O https://raw.githubusercontent.com/yourusername/node-modules-cleaner/main/clean_directory.py
+curl -O https://raw.githubusercontent.com/NikolaPopovic71/node-modules-cleaner/main/clean_node_modules.py
+curl -O https://raw.githubusercontent.com/NikolaPopovic71/node-modules-cleaner/main/clean_directory.py
 ```
 
 **Option 2: Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/node-modules-cleaner.git
+git clone https://github.com/NikolaPopovic71/node-modules-cleaner.git
 cd node-modules-cleaner
 ```
 
